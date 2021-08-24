@@ -1,0 +1,65 @@
+{
+  "codigo": 1001,
+  "dataHora": "2021-08-24T16:58:21.6339228-03:00",
+  "origem": 7,
+  "status": 1,
+  "descricao": "SUCESSO",
+  "detalhe": [
+    {
+      "nro": 3934851,
+      "observacao": "VENDA DE EQUIPAMENTO ",
+      "estagio": 6,
+      "status": 2,
+      "tipo": 1140,
+      "abertura": "2021-06-24T12:11:27",
+      "fechamento": "0001-01-01T00:00:00",
+      "estabelecimento": {
+        "mid": "882276",
+        "categoria": "A1",
+        "nomFantasia": "ACILAR INFORMATICA E TELECOM",
+        "cnpjCpf": "05558529000149",
+        "endereco": "R DOROTHEA GOTTSCHALK FISCHER",
+        "complemento": "                   ",
+        "numero": "474",
+        "bairro": "CJ RES ARAUCARIA   ",
+        "cidade": "ENTRE RIOS DO OESTE",
+        "uf": "PR",
+        "cep": "85988000"
+      },
+      "destinatario": {
+        "nome": "ACILAR INFORMATICA E TELECOM",
+        "cnpjCpf": "05558529000149",
+        "tipo": "J",
+        "sexo": "F",
+        "endereco": "R DOROTHEA GOTTSCHALK FISCHER",
+        "numero": "474",
+        "complemento": "                   ",
+        "bairro": "CJ RES ARAUCARIA   ",
+        "cidade": "ENTRE RIOS DO OESTE",
+        "uf": "PR",
+        "pais": "BR",
+        "cep": "85988000"
+      },
+      "contatos": [
+        {
+          "nome": "CILAR INFORMATICA E ",
+          "telefone": "459982899",
+          "celular": "45999828995",
+          "email": "ACILAR_GUEDES@HOTMAIL.COM"
+        }
+      ],
+      "calendarios": [],
+      "produtos": [
+        {
+          "tipo": 2,
+          "operadora": 0,
+          "numeroSerie": "1470499559",
+          "numeroSimCard": "89550534190028526210",
+          "numeroLogico": "18087334",
+          "acao": 1
+        }
+      ],
+      "chamadoItens": []
+    }
+  ]
+}
